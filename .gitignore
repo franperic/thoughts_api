@@ -132,3 +132,5 @@ dmypy.json
 poetry.lock
 pyproject.toml
 settings.json
+*/.DS_Store
+credentials/*
